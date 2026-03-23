@@ -6,7 +6,9 @@ fn main() {
     print("Hello, world!");
 }
 
-// a function that prints a message
+/// a function that prints a message
 fn print(m: &str) {
     println!("{m}")
 }
+
+/// write a function that displays birthday
