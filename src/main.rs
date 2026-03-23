@@ -12,3 +12,5 @@ fn print(m: &str) {
 }
 
 /// write a function that displays birthday
+
+/// now a function to query eks
